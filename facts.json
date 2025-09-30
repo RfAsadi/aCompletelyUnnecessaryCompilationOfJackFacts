@@ -1,8 +1,18 @@
 [
-  "Jack once bought the 'JackSucksAtPopUpPirate' channel just for fun.",
-  "He’s collected over 10 YouTube Play Buttons… some not even for his main channel!",
-  "Jack owns the channel 'SamSmellsOfApricots', which started as a joke.",
-  "He hit 100k subscribers on a channel he never uploaded to.",
-  "Jack once tricked YouTube into sending him a Play Button for 'JackSucksAtGeography'.",
-  "The Diamond Play Button has appeared in his bathtub."
+  {
+    "text": "Jack once received a Play Button for a channel with zero videos.",
+    "answer": "true"
+  },
+  {
+    "text": "Jack has never owned more than one YouTube channel.",
+    "answer": "false"
+  },
+  {
+    "text": "Jack’s dog is called Kong.",
+    "answer": "false"
+  },
+  {
+    "text": "The Diamond Play Button once ended up in Jack’s bathtub.",
+    "answer": "true"
+  }
 ]
