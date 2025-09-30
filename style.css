@@ -14,18 +14,22 @@ body {
   border-radius: 20px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
+.buttons {
+  margin-top: 20px;
+}
 
 button {
-  margin-top: 20px;
+  margin: 10px;
   padding: 12px 24px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   border: none;
-  border-radius: 12px;
-  background: #ff4fa8;
-  color: white;
+  border-radius: 8px;
   cursor: pointer;
-  transition: background 0.3s;
 }
+
+#trueBtn { background: #4caf50; color: white; }
+#falseBtn { background: #f44336; color: white; }
+#nextBtn { background: #2196f3; color: white; }
 
 button:hover {
   background: #e63e91;
